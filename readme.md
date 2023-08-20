@@ -1,8 +1,8 @@
-# SetupJR ESLint config
+# ESLint SetupJr
 
-## Usage
+## Uso
 
-### Install peer dependencies
+### Instalação
 
 - #### npm
 
@@ -22,9 +22,9 @@ yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint es
 pnpm add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-import-helpers eslint-plugin-prettier prettier typescript eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks eslint-config-setupjr
 ```
 
-### Configuration
+### Configuração
 
-in our eslint config file
+Coloque esse código no seu arquivo de configuração do eslint
 
 ```json
 {
