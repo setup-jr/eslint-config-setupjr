@@ -24,14 +24,24 @@ pnpm add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint es
 
 ### Configuração
 
-Coloque esse código no seu arquivo de configuração do eslint
+Adicione o arquivo ```.eslintrc``` com o seguinte código
 
 ```json
 {
   "extends": [
-    "setup-jr"
+    "setupjr"
   ]
 }
+```
+
+Adicione o arquivo ```.prettierrc``` com o seguinte código
+
+```json
+{
+  "semi": false,
+  "singleQuote": true
+}
+
 ```
 
 ## License
