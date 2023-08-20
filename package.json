@@ -18,6 +18,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "license": "MIT",
   "homepage": "https://github.com/setup-jr/eslint-config-setupjr",
   "repository": {
     "type": "git",

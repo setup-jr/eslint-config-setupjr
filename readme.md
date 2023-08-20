@@ -33,3 +33,7 @@ Coloque esse código no seu arquivo de configuração do eslint
   ]
 }
 ```
+
+## License
+
+[MIT License](./license.md)
